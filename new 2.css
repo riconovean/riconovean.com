@@ -1,0 +1,99 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#FFF9B1;
+	font-size:14px;
+	font-family:verdana, sans;
+}
+
+#header{
+	background-color:#5FA776;
+	margin:0;
+	padding:10px;
+}
+
+#header img{
+		float:left;
+		width:200px;
+		height:auto;
+		
+}
+
+#header h1{
+		color:#fefefe;
+		text-align:justify;
+		font-size:26px
+}
+
+#header p{
+	color:white;
+	text-align:center;
+	font-style:bold;
+	font-size:24px;
+}
+
+#body{
+	clear:both;
+}
+
+#body img{
+	width:500px;
+	padding:10px;
+}
+
+#body #sidebar{
+	float:left
+	width:30%;
+	background-color:#a0d9f6;
+}
+
+#body #sidebar ul{
+	list-style-type:none;
+	font-size:18px;
+}
+
+#body #side bar ul li{
+	margin-bottom:10px;
+}
+
+#body #sidebar ul li a{
+	text-decoration:none;
+	border-bottom:1px solid, #fafdfd;
+}
+
+#body #sidebar ul li a:hover{
+	color:#ff00ff;
+}
+
+#body #konten{
+	float:left;
+	width:70%
+	background-color:#fafdfd;
+}
+
+#body #konten .artikel{
+	
+}
+
+#body #konten .artikel h3{
+	
+}
+
+#body #konten .artikel p img{
+	
+}
+
+#footer{
+	clear:both;
+	background-color:#999;
+	text-align:center;
+}
+
+#footer {
+	padding:10px;
+	
+}
+
+#footer p{
+	
+}
